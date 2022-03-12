@@ -1,2 +1,2 @@
 # Laravel-to-do-list
-A simple todo list made using larave
+A simple todo list built using laravel
